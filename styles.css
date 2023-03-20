@@ -1,0 +1,146 @@
+#title {
+    background-color: #ff4c68;
+    margin: 0;
+    color: #fff;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: solid;
+}
+
+.nav-item {
+    padding: 0px 18px;
+}
+
+.nav-link {
+    font-family: "Montserrat-Light";
+    font-size: 1.2rem;
+}
+
+body {
+    font-family: "Montserrat";
+    margin: 0px;
+}
+
+h1 {
+    font-family: 'Tilt Warp', cursive;
+    size: 3.5rem;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.title-img {
+    width: 250px;
+    transform: rotate(25deg);
+    position: absolute;
+    background-size: cover;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0%;
+}
+
+/* feature */
+#features{
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+.features-box{
+    padding: 5%;
+    text-align: center;
+}
+h3{
+    font-family: 'Tilt Warp';
+    font-size: 1.2rem;
+}
+.features-text{
+    font-family: "Sens-serif";
+    color: #8f8f8f;
+}
+.icon{
+    font-size: 2.5rem;
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+
+/* testimonials */
+#testimonials{
+    font-family: 'Tilt Warp';
+    background-color: #ef8172;
+    text-align: center;
+    color: #fff;
+}
+.carousel-item{
+    padding: 7% 25%;
+}
+.testi-img{
+    width: 20%;
+    border-radius: 100%;
+    border: none;
+    margin: 20px;
+}
+
+/* Press */
+#press{
+    text-align: center;
+    padding-bottom: 3%;
+    background-color: #ef8172;
+}
+.press-img{
+    width: 15%;
+    margin: 20px 30px 50px;
+}
+
+/* PRICING */
+
+#pricing{
+    padding: 100px;
+    font-family: 'Tilt Warp';
+    text-align: center  ;
+}
+.pricing-col{
+    padding: 2% 3%;
+}
+.pricing-p{
+    font-family: 'Ubuntu', sans-serif;
+    color: gray;
+}
+
+#cta{
+    background-color: #ff4c68;
+    margin: 0;
+    color: #fff;
+    text-align: center;
+    padding: 8% 9%;
+}
+#footer{
+    text-align: center;
+    padding: 8% 9%;
+}
+.foot-icon{
+    font-size: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.foot-icon:hover{
+    background-color: gray;
+}
+.foot-text{
+    font-family: 'Ubuntu', sans-serif;
+    color: gray;
+    padding-top: 2rem;
+}
